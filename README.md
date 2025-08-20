@@ -16,13 +16,14 @@ This project analyzes weekly retention rates for user cohorts, tracking how many
 ---  
 ## 📌 How to read a cohort table
 ![how-to-read-cohort](images/how-to-read-cohort.png)
+
 From left to right, here’s what you’re looking at:
 
 **2020-11-01**: This is the "cohort" - subscriptions that signed up for our product in a week starting at 2020-11-01.
 
 **20,085**: This is the number of subscriptions in this cohort. So 20,085 subscriptions were acquired for our product in a week starting at 2020-11-01.
 
-**94.25%**: This is the percentage of subscriptions that remained within the first week of signing up. Measured at the beginning of following week (2020-11-08). This implies that 5.75% of those 20,085 subscriptions cancelled.
+**94.25%**: This is the percentage of subscriptions that remained within the first week of signing up. Measured at the beginning of following week (2020-11-08). This implies that **5.75%** (100% - 94.25%) of those **20,085** subscriptions cancelled.
 
 
 
